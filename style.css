@@ -5,7 +5,7 @@ h1{
 .Name-color{
     color: orange;
 }
-.Link-button{
+.Link_button{
     text-decoration: none;
     background-image: linear-gradient( orange,
     tomato);

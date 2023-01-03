@@ -2,7 +2,10 @@ h1{
     font-size: 50px;
     font: bold;
 }
-.Name-color{
+p{
+    font-size: 20px;
+}
+.Text-color{
     color: orange;
 }
 .Link_button{
@@ -35,7 +38,25 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.Experiences-Section{
+    display: block;
+    background-image: url(Image/Experience.png);
+    background-repeat: no-repeat;
+}
 .My-Experiences{
     display: flex;
     margin-bottom: 150px;
+}
+
+.Experience-Area{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2%;
+    border-radius: 5%;
+    box-shadow: 10px 10px 40px grey;
+}
+#Permanent-Job{border-left: 7px solid tomato;}
+#Part-time-job{
+border-left: 7px solid blue;
 }

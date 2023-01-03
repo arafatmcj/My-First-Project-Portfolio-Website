@@ -66,7 +66,7 @@ section{
 border-left: 7px solid blue;
 }
 .Social-media-icon{
-    height: 100px;
+    height: 40vh;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -88,9 +88,23 @@ a i{
     a:hover i{
         transform: scale(1.4);
     }
+    .fa-facebook{
+        color: #3B5998;
+    }
     .fa-twitter{
         color: #00acee;
     }
     .fa-instagram{
         color: #e84393;
+    }
+    footer{
+        text-align: center;
+    }
+    body{
+        display: block;
+    }
+    #Social-media{
+        color: blue;
+        border-radius: 10px;
+        padding: auto;
     }

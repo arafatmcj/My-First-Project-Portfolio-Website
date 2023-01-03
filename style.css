@@ -30,3 +30,12 @@ section{
     background-image: url(Image/Welcome.png);
     background-repeat: no-repeat;
 }
+.Dream_Section{
+    background-image: url(Image/Dream.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.My-Experiences{
+    display: flex;
+    margin-bottom: 150px;
+}

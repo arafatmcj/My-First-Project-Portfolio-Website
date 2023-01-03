@@ -26,3 +26,7 @@ section{
     height: 500px;
     width: auto;
 }
+.Welcome-section{
+    background-image: url(Image/Welcome.png);
+    background-repeat: no-repeat;
+}

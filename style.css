@@ -102,9 +102,26 @@ a i{
     }
     body{
         display: block;
+        margin: 0px;
+        font-family: 'Roboto', sans-serif;
     }
     #Social-media{
         color: blue;
         border-radius: 10px;
         padding: auto;
     }
+
+    nav a{
+        text-decoration: none;
+        color: blue;
+        margin-right: 15px;
+    }
+     nav{
+        display: flex;
+        justify-content: space-between;
+     }
+        
+     .Text{
+        font-size: 30px;
+     }
+    
